@@ -4,12 +4,12 @@
 
 Quest number   | Some lore
 ---------------|----------
-[Quest 01][q01]| [Guessing Game][q01l]
+[Quest 00][q00]| [Guessing Game][q00l]
 
 
 <!-- links -->
 
-[q01]: quest01/
-[q01l]:
+[q00]: quest00/
+[q00l]:
 https://doc.rust-lang.org/stable/book/second-edition/ch02-00-guessing-game-tutorial.html
 
