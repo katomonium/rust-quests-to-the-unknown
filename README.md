@@ -4,8 +4,8 @@
 
 Quest number           | Some lore
 -----------------------|----------
-[Quest 00][quest00/]   | [Guessing Game][q00]
-[Quest 01][quest01/]   | [Hello Rust][q01]
+[Quest 00](quest00/)   | [Guessing Game][q00]
+[Quest 01](quest01/)   | [Hello Rust][q01]
 
 
 <!-- links -->
