@@ -8,6 +8,7 @@ Quest number           | Some lore
 [Quest 01](quest01/)   | [Hello Rust][q01]
 [Quest 02](quest02/)   | [Primitives][q02]
 [Quest 03](quest03/)   | [Custom Type][q03]
+[Quest 04](quest04/)   | [Variable Binding][q04]
 
 
 <!-- links -->
@@ -16,3 +17,4 @@ Quest number           | Some lore
 [q01]: https://rustbyexample.com/hello.html
 [q02]: https://rustbyexample.com/primitives.html
 [q03]: https://rustbyexample.com/custom_types.html
+[q04]: https://rustbyexample.com/variable_bindings.html
