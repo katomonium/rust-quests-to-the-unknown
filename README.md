@@ -9,6 +9,7 @@ Quest number           | Some lore
 [Quest 02](quest02/)   | [Primitives][q02]
 [Quest 03](quest03/)   | [Custom Type][q03]
 [Quest 04](quest04/)   | [Variable Binding][q04]
+[Quest 05](quest05/)   | [Types][q05]
 
 
 <!-- links -->
@@ -18,3 +19,4 @@ Quest number           | Some lore
 [q02]: https://rustbyexample.com/primitives.html
 [q03]: https://rustbyexample.com/custom_types.html
 [q04]: https://rustbyexample.com/variable_bindings.html
+[q05]: https://rustbyexample.com/types.html
