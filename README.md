@@ -12,7 +12,7 @@ Quest number           | Some lore
 [Quest 05](quest05/)   | [Types][q05]
 [Quest 06](quest06/)   | [Conversion][q06]
 [Quest 08](quest08/)   | [Flow Control][q08]
-[Quest 09](quest09/)   | [Functions][q08]
+[Quest 09](quest09/)   | [Functions][q09]
 
 
 <!-- links -->
