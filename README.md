@@ -24,4 +24,5 @@ Quest number           | Some lore
 [q04]: https://rustbyexample.com/variable_bindings.html
 [q05]: https://rustbyexample.com/types.html
 [q06]: https://rustbyexample.com/conversion.html
-[q08]: https://rustbyexample.com/fn.html
+[q08]: https://rustbyexample.com/flow_control.html
+[q09]: https://rustbyexample.com/fn.html
