@@ -12,6 +12,7 @@ Quest number           | Some lore
 [Quest 05](quest05/)   | [Types][q05]
 [Quest 06](quest06/)   | [Conversion][q06]
 [Quest 08](quest08/)   | [Flow Control][q08]
+[Quest 09](quest09/)   | [Functions][q08]
 
 
 <!-- links -->
@@ -23,4 +24,4 @@ Quest number           | Some lore
 [q04]: https://rustbyexample.com/variable_bindings.html
 [q05]: https://rustbyexample.com/types.html
 [q06]: https://rustbyexample.com/conversion.html
-[q08]: https://rustbyexample.com/flow_control.html
+[q08]: https://rustbyexample.com/fn.html
