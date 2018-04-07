@@ -13,6 +13,7 @@ Quest number           | Some lore
 [Quest 06](quest06/)   | [Conversion][q06]
 [Quest 08](quest08/)   | [Flow Control][q08]
 [Quest 09](quest09/)   | [Functions][q09]
+[Quest 10](quest10/)   | [Modules][q10]
 
 
 <!-- links -->
@@ -26,3 +27,4 @@ Quest number           | Some lore
 [q06]: https://rustbyexample.com/conversion.html
 [q08]: https://rustbyexample.com/flow_control.html
 [q09]: https://rustbyexample.com/fn.html
+[q10]: https://rustbyexample.com/mod.html
